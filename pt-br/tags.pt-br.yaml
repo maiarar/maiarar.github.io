@@ -1,0 +1,25 @@
+tags:
+  - name: tecnologia
+    description: Artigos sobre as últimas tendências em tecnologia
+  - name: desenvolvimento
+    description: Artigos relacionados ao desenvolvimento de software, incluindo linguagens de programação, frameworks
+  - name: software
+    description: Artigos relacionados ao desenvolvimento de software, práticas e ferramentas
+  - name: qualidade
+    description: Artigos relacionados à qualidade de software, incluindo testes e garantia de qualidade
+  - name: neurodivergência
+    description: Artigos relacionados à neurodivergência
+  - name: autismo
+    description: Artigos sobre autismo
+  - name: tdah
+    description: Artigos sobre TDAH
+  - name: medium
+    description: Artigos publicados no Medium, antigos, que foram migrados para o meu site pessoal
+  - name: sociedade
+    description: Artigos relacionados a questões sociais e políticas
+  - name: mente
+    description: Artigos relacionados à mente humana, saúde mental e psicologia
+  - name: pandemia
+    description: Artigos relacionados à pandemia de COVID-19 e seus impactos
+  - name: espiritismo
+    description: Artigos relacionados ao espiritismo e suas práticas
